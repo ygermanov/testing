@@ -1,0 +1,6 @@
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\13.CompoundInterest\bin\Debug\13.CompoundInterest.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\13.CompoundInterest\bin\Debug\13.CompoundInterest.exe
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\13.CompoundInterest\bin\Debug\13.CompoundInterest.pdb
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\13.CompoundInterest\obj\Debug\13.CompoundInterest.exe
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\13.CompoundInterest\obj\Debug\13.CompoundInterest.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\ConditionalStatements\13.CompoundInterest\obj\Debug\13.CompoundInterest.csprojResolveAssemblyReference.cache

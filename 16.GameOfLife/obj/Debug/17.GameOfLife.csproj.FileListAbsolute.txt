@@ -1,0 +1,6 @@
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\16.GameOfLife\bin\Debug\16.GameOfLife.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\16.GameOfLife\bin\Debug\16.GameOfLife.exe
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\16.GameOfLife\bin\Debug\16.GameOfLife.pdb
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\16.GameOfLife\obj\Debug\16.GameOfLife.exe
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\16.GameOfLife\obj\Debug\16.GameOfLife.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\ConditionalStatements\16.GameOfLife\obj\Debug\17.GameOfLife.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\16.GameOfLife\bin\Debug\16.GameOfLife.exe.config

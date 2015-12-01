@@ -1,0 +1,6 @@
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb
+C:\Users\Yani\Documents\Visual Studio 2013\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache

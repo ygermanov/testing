@@ -1,0 +1,1 @@
+c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\02.Bonus Score\bin\Debug\02.Bonus Score.exe.config
