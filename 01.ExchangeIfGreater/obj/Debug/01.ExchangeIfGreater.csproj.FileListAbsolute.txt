@@ -4,3 +4,4 @@ c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\01.Exc
 c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\01.ExchangeIfGreater\obj\Debug\01.ExchangeIfGreater.csprojResolveAssemblyReference.cache
 c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\01.ExchangeIfGreater\obj\Debug\01.ExchangeIfGreater.exe
 c:\users\yani\documents\visual studio 2013\Projects\ConditionalStatements\01.ExchangeIfGreater\obj\Debug\01.ExchangeIfGreater.pdb
+C:\Users\Dochko\Documents\testing\01.ExchangeIfGreater\bin\Debug\01.ExchangeIfGreater.exe.config
